@@ -6,8 +6,9 @@ body {
     
     background-image: url('background.avif');
     backdrop-filter: blur(8px);
-    background-size: cover;
+    background-size:cover;
     background-position: center;
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
