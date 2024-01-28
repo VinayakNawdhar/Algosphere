@@ -74,3 +74,16 @@ a {
     border-radius: 5px;
  
 }
+.team-pic{
+    
+    max-width: 70%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.gallery-pic{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
